@@ -45,8 +45,7 @@ const references = [
   {
     id: "adhanom2023",
     author: "Isayas Berhe Adhanom, Paul MacNeilage, and Eelke Folmer",
-    title:
-      "Eye tracking in virtual reality: a broad review of applications and challenges",
+    title: "Eye tracking in virtual reality: a broad review of applications and challenges",
     year: "2023",
     journal: "Virtual Reality",
     volume: "27",
@@ -55,10 +54,8 @@ const references = [
   },
   {
     id: "asahina2021",
-    author:
-      "Ray Asahina, Takashi Nomoto, Takatoshi Yoshida, and Yoshihiro Watanabe",
-    title:
-      "Realistic 3D swept-volume display with hidden-surface removal using physical materials",
+    author: "Ray Asahina, Takashi Nomoto, Takatoshi Yoshida, and Yoshihiro Watanabe",
+    title: "Realistic 3D swept-volume display with hidden-surface removal using physical materials",
     year: "2021",
     journal: "IEEE Virtual Reality and 3D User Interfaces (VR)",
     pages: "113–121",
@@ -94,13 +91,10 @@ const references = [
   },
   {
     id: "carter2013",
-    author:
-      "Tom Carter, Sue Ann Seah, Benjamin Long, Bruce Drinkwater, and Sriram Subramanian",
-    title:
-      "UltraHaptics: multi-point mid-air haptic feedback for touch surfaces",
+    author: "Tom Carter, Sue Ann Seah, Benjamin Long, Bruce Drinkwater, and Sriram Subramanian",
+    title: "UltraHaptics: multi-point mid-air haptic feedback for touch surfaces",
     year: "2013",
-    booktitle:
-      "Proceedings of the 26th annual ACM symposium on User interface software and technology",
+    booktitle: "Proceedings of the 26th annual ACM symposium on User interface software and technology",
     pages: "505–514",
   },
   {
@@ -117,8 +111,7 @@ const references = [
     author: "Dhairya Dand and Robert Hemsley",
     title: "Obake: interactions on a 2.5 D elastic display",
     year: "2013",
-    booktitle:
-      "Adjunct Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology",
+    booktitle: "Adjunct Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology",
     pages: "109–110",
   },
   {
@@ -126,15 +119,13 @@ const references = [
     author: "Nguyen-Thong Dang",
     title: "A survey and classification of 3D pointing techniques",
     year: "2007",
-    booktitle:
-      "IEEE international conference on research, innovation and vision for the future",
+    booktitle: "IEEE international conference on research, innovation and vision for the future",
     pages: "71–80",
   },
   {
     id: "eitoku2006",
     author: "S. Eitoku, T. Tanikawa, and Y. Suzuki",
-    title:
-      "Display Composed of Water Drops for Filling Space with Materialized Virtual Three-dimensional Objects",
+    title: "Display Composed of Water Drops for Filling Space with Materialized Virtual Three-dimensional Objects",
     year: "2006",
     booktitle: "IEEE Virtual Reality Conference (VR 2006)",
     pages: "159–166",
@@ -142,8 +133,7 @@ const references = [
   },
   {
     id: "feix2016",
-    author:
-      "Thomas Feix, Javier Romero, Heinz-Bodo Schmiedmayer, Aaron M. Dollar, and Danica Kragic",
+    author: "Thomas Feix, Javier Romero, Heinz-Bodo Schmiedmayer, Aaron M. Dollar, and Danica Kragic",
     title: "The GRASP Taxonomy of Human Grasp Types",
     year: "2016",
     journal: "IEEE Transactions on Human-Machine Systems",
@@ -154,32 +144,26 @@ const references = [
   },
   {
     id: "fernandez2024",
-    author:
-      "Unai Javier Fernández, Iosune Sarasate, Iñigo Ezcurdia, Manuel Lopez-Amo, Ivan Fernández, and Asier Marzo",
+    author: "Unai Javier Fernández, Iosune Sarasate, Iñigo Ezcurdia, Manuel Lopez-Amo, Ivan Fernández, and Asier Marzo",
     title: "PointerVol: A Laser Pointer for Swept Volumetric Displays",
     year: "2024",
-    booktitle:
-      "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST ’24)",
+    booktitle: "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST ’24)",
     pages: "1–8",
     doi: "10.1145/3654777.3676432",
   },
   {
     id: "forlines2007",
-    author:
-      "Clifton Forlines, Daniel Wigdor, Chia Shen, and Ravin Balakrishnan",
+    author: "Clifton Forlines, Daniel Wigdor, Chia Shen, and Ravin Balakrishnan",
     title: "Direct-touch vs. mouse input for tabletop displays",
     year: "2007",
-    booktitle:
-      "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’07)",
+    booktitle: "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’07)",
     pages: "647–656",
     doi: "10.1145/1240624.1240726",
   },
   {
     id: "fushimi2019",
-    author:
-      "Tatsuki Fushimi, Asier Marzo, Bruce W Drinkwater, and Thomas L Hill",
-    title:
-      "Acoustophoretic volumetric displays using a fast-moving levitated particle",
+    author: "Tatsuki Fushimi, Asier Marzo, Bruce W Drinkwater, and Thomas L Hill",
+    title: "Acoustophoretic volumetric displays using a fast-moving levitated particle",
     year: "2019",
     journal: "Applied Physics Letters",
     volume: "115",
@@ -196,11 +180,9 @@ const references = [
   {
     id: "grossman2006",
     author: "Tovi Grossman and Ravin Balakrishnan",
-    title:
-      "The design and evaluation of selection techniques for 3D volumetric displays",
+    title: "The design and evaluation of selection techniques for 3D volumetric displays",
     year: "2006",
-    booktitle:
-      "Proceedings of the 19th annual ACM symposium on User interface software and technology",
+    booktitle: "Proceedings of the 19th annual ACM symposium on User interface software and technology",
     pages: "3–12",
   },
   {
@@ -208,14 +190,12 @@ const references = [
     author: "Tovi Grossman, Daniel Wigdor, and Ravin Balakrishnan",
     title: "Multi-finger gestural interaction with 3d volumetric displays",
     year: "2004",
-    booktitle:
-      "Proceedings of the 17th annual ACM symposium on User interface software and technology",
+    booktitle: "Proceedings of the 17th annual ACM symposium on User interface software and technology",
     pages: "61–70",
   },
   {
     id: "hahn2023",
-    author:
-      "Joonku Hahn, Woonchan Moon, Hosung Jeon, Minwoo Jung, Seongju Lee, Gunhee Lee, and Muhan Choi",
+    author: "Joonku Hahn, Woonchan Moon, Hosung Jeon, Minwoo Jung, Seongju Lee, Gunhee Lee, and Muhan Choi",
     title: "Volumetric 3D Display: Features and Classification",
     year: "2023",
     journal: "Current Optics and Photonics",
@@ -226,8 +206,7 @@ const references = [
   {
     id: "hart1988",
     author: "Sandra G. Hart and Lowell E. Staveland",
-    title:
-      "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research",
+    title: "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research",
     year: "1988",
     booktitle: "Advances in Psychology",
     volume: "52",
@@ -236,21 +215,16 @@ const references = [
   },
   {
     id: "hilliges2012",
-    author:
-      "Otmar Hilliges, David Kim, Shahram Izadi, Malte Weiss, and Andrew Wilson",
-    title:
-      "HoloDesk: direct 3d interactions with a situated see-through display",
+    author: "Otmar Hilliges, David Kim, Shahram Izadi, Malte Weiss, and Andrew Wilson",
+    title: "HoloDesk: direct 3d interactions with a situated see-through display",
     year: "2012",
-    booktitle:
-      "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    booktitle: "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
     pages: "2421–2430",
   },
   {
     id: "hirayama2019",
-    author:
-      "Ryuji Hirayama, Diego Martinez Plasencia, Nobuyuki Masuda, and Sriram Subramanian",
-    title:
-      "A volumetric display for visual, tactile and audio presentation using acoustic trapping",
+    author: "Ryuji Hirayama, Diego Martinez Plasencia, Nobuyuki Masuda, and Sriram Subramanian",
+    title: "A volumetric display for visual, tactile and audio presentation using acoustic trapping",
     year: "2019",
     journal: "Nature",
     volume: "575",
@@ -274,10 +248,8 @@ const references = [
   },
   {
     id: "ishii2012",
-    author:
-      "Hiroshi Ishii, Dávid Lakatos, Leonardo Bonanni, and Jean-Baptiste Labrune",
-    title:
-      "Radical atoms: beyond tangible bits, toward transformable materials",
+    author: "Hiroshi Ishii, Dávid Lakatos, Leonardo Bonanni, and Jean-Baptiste Labrune",
+    title: "Radical atoms: beyond tangible bits, toward transformable materials",
     year: "2012",
     journal: "interactions",
     volume: "19",
@@ -293,18 +265,15 @@ const references = [
   },
   {
     id: "jiang2021",
-    author:
-      "Ying Jiang, Congyi Zhang, Hongbo Fu, Alberto Cannavò, Fabrizio Lamberti, Henry Y K Lau, and Wenping Wang",
+    author: "Ying Jiang, Congyi Zhang, Hongbo Fu, Alberto Cannavò, Fabrizio Lamberti, Henry Y K Lau, and Wenping Wang",
     title: "HandPainter -3D Sketching in VR with Hand-based Physical Proxy",
     year: "2021",
-    booktitle:
-      "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)",
+    booktitle: "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)",
     doi: "10.1145/3411764.3445302",
   },
   {
     id: "jones2007",
-    author:
-      "Andrew Jones, Ian McDowall, Hideshi Yamada, Mark Bolas, and Paul Debevec",
+    author: "Andrew Jones, Ian McDowall, Hideshi Yamada, Mark Bolas, and Paul Debevec",
     title: "Rendering for an interactive 360° light field display",
     year: "2007",
     journal: "ACM Transactions on Graphics",
@@ -317,17 +286,14 @@ const references = [
     id: "karnik2011",
     author:
       "Abhijit Karnik, Archie Henderson, Andrew Dean, Howard Pang, Thomas Campbell, Satoshi Sakurai, Guido Herrmann, Shahram Izadi, Yoshifumi Kitamura, and Sriram Subramanian",
-    title:
-      "Vortex: Design and implementation of an interactive volumetric display",
+    title: "Vortex: Design and implementation of an interactive volumetric display",
     year: "2011",
-    booktitle:
-      "CHI’11 Extended Abstracts on Human Factors in Computing Systems",
+    booktitle: "CHI’11 Extended Abstracts on Human Factors in Computing Systems",
     pages: "2017–2022",
   },
   {
     id: "kimura2011",
-    author:
-      "Hidei Kimura, Akira Asano, Issei Fujishiro, Ayaka Nakatani, and Hayato Watanabe",
+    author: "Hidei Kimura, Akira Asano, Issei Fujishiro, Ayaka Nakatani, and Hayato Watanabe",
     title: "True 3D display",
     year: "2011",
     booktitle: "ACM SIGGRAPH 2011 Emerging Technologies",
@@ -344,8 +310,7 @@ const references = [
   {
     id: "kumagai2021",
     author: "Kota Kumagai, Shun Miura, and Yoshio Hayasaki",
-    title:
-      "Colour volumetric display based on holographic-laser-excited graphics using drawing space separation",
+    title: "Colour volumetric display based on holographic-laser-excited graphics using drawing space separation",
     year: "2021",
     journal: "Scientific Reports",
     volume: "11",
@@ -570,10 +535,7 @@ function parseLatex(latexCode) {
       }
     }
     // 수식 블록 (display math)
-    else if (
-      (line.startsWith("\\[") && line.endsWith("\\]")) ||
-      (line.startsWith("$$") && line.endsWith("$$"))
-    ) {
+    else if ((line.startsWith("\\[") && line.endsWith("\\]")) || (line.startsWith("$$") && line.endsWith("$$"))) {
       // \[ ... \] 또는 $$ ... $$ 한 줄
       const mathContent = line
         .replace(/^\\\[|\\\]$/g, "")
@@ -582,20 +544,14 @@ function parseLatex(latexCode) {
       content += `<div class="math-block">\\[${mathContent}\\]</div>`;
     }
     // 여러 줄 수식 블록 시작
-    else if (
-      (line.startsWith("\\[") && !line.endsWith("\\]")) ||
-      (line.startsWith("$$") && !line.endsWith("$$"))
-    ) {
+    else if ((line.startsWith("\\[") && !line.endsWith("\\]")) || (line.startsWith("$$") && !line.endsWith("$$"))) {
       // 여러 줄 블록 수식
       let mathLines = [];
       let endFound = false;
       let j = i;
       while (j < lines.length && !endFound) {
         let l = lines[j].trim();
-        if (
-          (l.endsWith("\\]") && l.length > 2) ||
-          (l.endsWith("$$") && l.length > 2)
-        ) {
+        if ((l.endsWith("\\]") && l.length > 2) || (l.endsWith("$$") && l.length > 2)) {
           endFound = true;
           l = l.replace(/^\\\[|^\$\$|\\\]$|\$\$$/g, "");
           mathLines.push(l);
@@ -643,28 +599,16 @@ function parseLatex(latexCode) {
     else if (inDocument && line.length > 0 && !line.startsWith("%")) {
       if (inAbstract) {
         abstract += line + " ";
-      } else if (
-        !inFigure &&
-        !inTable &&
-        !inEnumerate &&
-        !inItemize &&
-        !inTabular
-      ) {
+      } else if (!inFigure && !inTable && !inEnumerate && !inItemize && !inTabular) {
         let processedLine = line;
 
         // \href 처리
         const hrefRegex = /\\href\{([^}]*)\}\{([^}]*)\}/g;
-        processedLine = processedLine.replace(
-          hrefRegex,
-          '<a href="$1" target="_blank">$2</a>'
-        );
+        processedLine = processedLine.replace(hrefRegex, '<a href="$1" target="_blank">$2</a>');
 
         // \url 처리
         const urlRegex = /\\url\{([^}]*)\}/g;
-        processedLine = processedLine.replace(
-          urlRegex,
-          '<a href="$1" target="_blank">$1</a>'
-        );
+        processedLine = processedLine.replace(urlRegex, '<a href="$1" target="_blank">$1</a>');
 
         // \ref 처리
         const refRegex = /\\ref\{([^}]*)\}/g;
@@ -750,29 +694,17 @@ function parseLatex(latexCode) {
 
   // 초록 내용이 있으면 추가
   if (abstract) {
-    if (
-      content.includes(
-        '<div class="abstract"><div class="abstract-title">Abstract</div></div>'
-      )
-    ) {
+    if (content.includes('<div class="abstract"><div class="abstract-title">Abstract</div></div>')) {
       content = content.replace(
         '<div class="abstract"><div class="abstract-title">Abstract</div></div>',
         `<div class="abstract"><div class="abstract-title">Abstract</div>${abstract}</div>`
       );
     } else if (!content.includes(abstract)) {
       // If abstract content not found in the HTML but exists
-      const titleIndex = content.indexOf(
-        '<div class="abstract"><div class="abstract-title">Abstract</div>'
-      );
+      const titleIndex = content.indexOf('<div class="abstract"><div class="abstract-title">Abstract</div>');
       if (titleIndex > -1) {
-        const insertIndex =
-          titleIndex +
-          '<div class="abstract"><div class="abstract-title">Abstract</div>'
-            .length;
-        content =
-          content.substring(0, insertIndex) +
-          abstract +
-          content.substring(insertIndex);
+        const insertIndex = titleIndex + '<div class="abstract"><div class="abstract-title">Abstract</div>'.length;
+        content = content.substring(0, insertIndex) + abstract + content.substring(insertIndex);
       }
     }
   }
@@ -906,7 +838,7 @@ window.onload = function () {
     \\begin{figure}
     \\centering
     \\includegraphics[width=0.25\\linewidth]{Figure1.png}
-    \\caption{\\label{Figure 1}\FlexiVol is a     [[[[[[[[[[[[[[[ 문제1 ]]]]]]]]]]]]]]]           with an elastic diffuser that allows users to reach inside and interact directly with true 3D graphics. A) The user’s hand and the virtual objects have coherent focal accommodation: 1. the view is focused at the hand and red cube, or 2. at the sphere behind them. B) The user input (hand) is aligned with the output (rendered objects), allowing to directly 1. grab virtual objects, 2. to translate and 3. rotate them.}
+    \\caption{\\label{Figure 1}\FlexiVol is a volumetric        [[[[[[[[[[[[[[[ 문제1 ]]]]]]]]]]]]]]]           with an elastic diffuser that allows users to reach inside and interact directly with true 3D graphics. A) The user’s hand and the virtual objects have coherent focal accommodation: 1. the view is focused at the hand and red cube, or 2. at the sphere behind them. B) The user input (hand) is aligned with the output (rendered objects), allowing to directly 1. grab virtual objects, 2. to translate and 3. rotate them.}
     \\end{figure}
 
     \\section{Introduction}
@@ -958,7 +890,7 @@ window.onload = function () {
     Projector: A high frame rate is needed to render into the display volume: if 100 slices are projected at a frame rate of 30 Hz, the projector has to operate at 3000 Hz. Usually, DLP projectors with time multiplexation for the color are employed. The projected images are reduced to binary patterns and thus the original frame rate of the projector can be multiplied by the number of color bitplanes. For example, the Voxon VX1 projects 192 slices at 15 Hz (2880 Hz) with a resolution of 980 × 720px. In our custom-made volumetric display with one actuator (see Figure 2 - A or Appendix A.1), we used a DLP LightCrafter 4500. When operating at 120 Hz with 24-bit color depth, it projects binary patterns at 2880 Hz with a resolution of of up to 1280 × 800px. Color volumetric rendering is possible by losing depth resolution and multiplexing in space the color (e.g, odd slices are projected blue whereas even slices are red).
     Actuators: the typical actuators for a planar oscillating SVD are voicecoils (e.g., Voxon VX1 [44] and Dan Maloney’s [37]) either custom designed or from a modified speaker. The VVD [24] uses stepper motors that rotate back and forth 25° as an alternative. In our custom-made volumetric displays (see Figure 2 - A,B), we employed a modified VDSSP6.5/8 HQ Power speaker.
     Mechanical amplifier: the actuators may not oscillate with sufficient amplitude for the diffuser to provide a large enough display volume. That is why some designs (e.g., Voxon VX1 and Dan Maloney’s) use mechanical amplifiers. A mechanical amplifier can be just a spring or a lever mechanism. In our custom-made one actuator volumetric display (see Figure 2 - A), we connected the speaker to an audio amplifier (Fosi Audio TP-02); and used a mechanical PLA 3D-printed spring (3 mm thickness, 70 mm diameter, 3 spirals). The design with two-actuators does not use mechanical amplifiers to only study the mechanical behaviour of the diffusers.
-    Diffuser: it is     [[[[[[[[[[[[[[[ 문제2 ]]]]]]]]]]]]]]]          , which receives the projected light and diffuses it towards the viewers. The display volume is usually protected with an acrylic case to avoid users touching the solid diffuser. For FlexiVol, we replaced this traditional solid diffuser with an array of elastic strips (see Section 4).
+    Diffuser: it is usually a sheet of an optically diffusing            [[[[[[[[[[[[[[[ 문제2 ]]]]]]]]]]]]]]]          , which receives the projected light and diffuses it towards the viewers. The display volume is usually protected with an acrylic case to avoid users touching the solid diffuser. For FlexiVol, we replaced this traditional solid diffuser with an array of elastic strips (see Section 4).
 
     Rendering Rendering for a volumetric display is different from typical scanline or ray tracing pipelines. The scene needs to be sliced along planes, those slices are projected at high-speed on the oscillating diffuser (see Figure 3). Therefore, several slices are combined into a color image to be sent to the projector. For example, 24 slices with binary color are packed into a regular 24-bit RGB image that the projector is expecting from the HDMI or Display Port input.
     If the 3D scene is defined as voxels, either from a 3D-array or a function, the rendering is simplified since each pixel from the slice can be directly obtained from the corresponding voxel.
@@ -975,7 +907,7 @@ window.onload = function () {
     If the projector is the synchronization source, the vertical sync signal can be used to keep in a phased-locked-loop the actuation signal. The actuation signal is required to be a divider of the vsync signal. For example, in the Voxon VX1 the actuation signal is a 15 Hz sinusoidal and the vsync of the projector is a 120 Hz signal.
 
     \\section{Elastic Diffusers}
-         [[[[[[[[[[[[[[[ 문제3 ]]]]]]]]]]]]]]]          by an elastic material that allows for deformations without harming the user or damaging the display. The most common used materials for elastic projection screens are Lycra and latex [57], we thus used these materials as a starting point but also characterized others.
+For FlexiVol, we         [[[[[[[[[[[[[[[ 문제3 ]]]]]]]]]]]]]]]          the rigid diffuser of a planar swept volumetric display by an elastic material that allows for deformations without harming the user or damaging the display. The most common used materials for elastic projection screens are Lycra and latex [57], we thus used these materials as a starting point but also characterized others.
     For the diffuser, we decided to use an array of strips rather than a continuous membrane because when the user pushes the membrane, it creates deformations along all the membrane and distorts the entire display volume; with the strips, only the pushed ones get distorted. Furthermore, the forces that a membrane exerts on the user’s finger or the mechanical amplifiers can damage them, especially for anisotropic materials that have a large stiffness along their non-elastic dimension. Finally, the deformation of an oscillating 2D membrane is not as predictable as a single strip, the latter can just be approximated with a sinusoid or parabole (see Section 5). We employed strips of 20 mm width to approximately match the finger width; smaller strips had the same distortion upon user contact, produced more optical discontinuities and the arrays were more cumbersome to adjust. Larger strips tended to have the same issues as a full membrane: too much force and distorted area upon contact with the hand.
     All the fabrics were laser-cut into 200 × 20 mm2 strips along their elastic dimension. The curable materials (e.g., silicone) were cured on top of an acrylic sheet with a spacer of the desired thickness.
     The selected materials samples can be seen in Figure 4 and are:
@@ -1014,7 +946,7 @@ window.onload = function () {
     \\begin{figure}
     \\centering
     \\includegraphics[width=0.25\\linewidth]{figure6.png}
-    \\caption{\\label{Figure 6} A. Setup for measuring     [[[[[[[[[[[[[[[ 문제4 ]]]]]]]]]]]]]]]          stiffness: A 3D printer positions a load cell to deform the sample. B. Transversal stiffness of the samples.}
+    \\caption{\\label{Figure 6} A. Setup for measuring         [[[[[[[[[[[[[[[ 문제4 ]]]]]]]]]]]]]]]         transverse stiffness: A 3D printer positions a load cell to deform the sample. B. Transversal stiffness of the samples.}
     \\end{figure}
 
     Frequency Response
@@ -1060,13 +992,13 @@ window.onload = function () {
     \\caption{\\label{figure 8} Stiffness of elastic band (blue dashed) and projection screen (purple dotted) as they are stretched and relaxed twice.}
     \\end{figure}
 
-         [[[[[[[[[[[[[[[ 문제6 ]]]]]]]]]]]]]]]             
+    \\section{Material      [[[[[[[[[[[[[[[ 문제6 ]]]]]]]]]]]]]]]         }    
     A good material for a FlexiVol diffuser should have the following characteristics:
     Visual quality. It should provide an even diffusion of the light along the viewing angles but without blurring too much the patterns or attenuating them. The backprojected image should not distort when the material is stretched, otherwise the volumetric graphics will look blurry at the top and bottom.
     Stiffness. The force should not exceed 8 N when the material is stretched 80 mm – which is our maximum display volume height. Larger forces can damage the mechanical amplifiers and were found disturbing for the user. The selected samples fulfil this criteria, other materials were discarded given that they were too stiff and generated too much force on the user finger being unpleasant or even painful to touch when they were oscillating.
     Frequency response. It may not be desirable to have the diffuser strip resonating at the operating frequency of the display because it would lead to larger forces on the display and large amplitudes provoking graphic distortions, harder to correct (see Section 5).
     Plastic Deformation. It should have elastic deformation up to the elongation range. That is, the deformations should not be permanent since that would make the strips hang and give them different amplitudes when oscillating, thus incurring in discontinuous graphics in the rendering volume.
-    Given those criteria, we selected the elastic bands because they retain their mechanical and optical properties during elongations. Their visual quality is not the best since it has dark stripes along them, but when oscillating in a volumetric display that was not a significant problem. Elastane or the projection screen offered the best visual quality, yet they were permanently deformed even with small elongations and tend to have a natural frequency close to the operating frequency of the display, leading to large distortions. Silicone was elastic along the desired range but it did not diffuse light correctly. Adding ink or scattering particles to the mixture could improve its optical qualities; but in any case, its mechanical properties are not adequate since it is prone to rotate and not laying flat when oscillating – being an isotropic material in terms of stiffness.
+    Given those criteria, we selected the elastic bands because they retain their mechanical and optical properties during elongations. Their visual quality is not the best since it has dark stripes along them, but when oscillating in a volumetric display that was not a significant problem. Elastane or the projection screen offered the best visual quality, yet they were permanently deformed even with small elongations and tend to have a natural frequency close to the operating frequency of the display, leading to large distortions. Silicone was elastic along the desired range but it did not diffuse light correctly. Adding ink or scattering particles to the mixture could improve its optical qualities; but in any case, its mechanical      [[[[[[[[[[[[[[[ 문제7 ]]]]]]]]]]]]]]]           are not adequate since it is prone to rotate and not laying flat when oscillating – being an isotropic material in terms of stiffness.
     The elastic bands were highly anisotropic; that is, they were elastic along their length but stiff on the other direction. This made them lay flat when oscillating on the display, passing around the finger but recovering their horizontal orientation when the finger was removed.
     4.6 SVD Noise with Elastic Diffusers
     We measured the noise levels using both the original rigid diffuser and the chosen elastic material (elastic band) on the Voxon V1 as a reference; and with and without the hand inside the display volume. Noise levels were captured 5 times using a Meterk MK09 with the sonometer’s tip at 60 cm from the center of the display volume, which is the typical distance between the display and the user’s ear. The noise level was 57.9 dB (std = 0.2) for the rigid diffuser (without safety dome) and 51.9 dB (std = 0.2) for the elastic diffuser. Inserting the hand inside the volume sligthly increased the noise level 53.0 dB (std = 0.3). Noise can be considered a relatively small issue and the noise levels actually decrease slightly by using an elastic diffuser.
@@ -1095,7 +1027,7 @@ window.onload = function () {
 
     \\[ℎ⁢𝑒⁢𝑖⁢𝑔⁢ℎ⁢𝑡=𝐹⁡(𝑋,𝑍)\\]
 
-    which     [[[[[[[[[[[[[[[ 문제7 ]]]]]]]]]]]]]]]          an X and Z position checks which parabole passes through that point and returns the height of the holding frame (Z of the frame). By applying this polynomial to the vertices of the meshes to be rendered, the distortion was significantly corrected. The effect of the distortion correction is shown in Figure 11. The display volume increases given the fabric deformation, but when using the correction, the effective volume remains the same as when using a rigid diffuser.
+    which     [[[[[[[[[[[[[[[ 문제8 ]]]]]]]]]]]]]]]          an X and Z position checks which parabole passes through that point and returns the height of the holding frame (Z of the frame). By applying this polynomial to the vertices of the meshes to be rendered, the distortion was significantly corrected. The effect of the distortion correction is shown in Figure 11. The display volume increases given the fabric deformation, but when using the correction, the effective volume remains the same as when using a rigid diffuser.
 
     \\begin{figure}
     \\centering
@@ -1124,7 +1056,7 @@ window.onload = function () {
     Interacting between strips can also be performed, for instance if the user goes below the diffuser and opens its fingers. This is however not recommended as it would cause the diffuser to pass through an area without visual rendering, hindering the interaction with 3D content.
     Interaction with other diffuser types. We also tested interacting with a continuous diffuser (i.e., a membrane) instead of strips. This however causes the physical and visual deformations to be global over the whole surface; thus requiring more complex simulations of the surface deformation under the given number of contact points; as well as harder to calibrate distortion correction schemes. However, when used, the hand tracking does not suffer from the occlusion of the strips.
     We considered the interaction space as a function of strips width and spacing. The wider the strips, the closer it is to a membrane diffuser and harder to visually correct for deformation. We also tried strings and the visuals were good but the tactile feedback was similar to whipping the fingers, and was discarded. The wider the spacing between the strips, the less continuity there is in the visuals as the diffuser is not continuous. We also tested overlapping strips which resulted in worse visuals as the projection light had to project over two diffusers.
-    6.1.2 Interaction Direction.
+    6.1.2      [[[[[[[[[[[[[[[ 문제9 ]]]]]]]]]]]]]]]           Direction.
     The input over the diffuser can be performed in any direction. The strips are indeed placed along a single longitudinal direction, but interactions can also occur along the lateral or diagonal directions (see Figure 12 - C). A tactile discontinuity can be perceived between strips, but the user input type (e.g., finger, stylus) can perform continuous gestures without getting stuck between/under a strip. The high operating frequency of the volumetric displays moves the strips fast enough so that the input (e.g., finger, stylus) does not perceive their oscillation and the strips remain under the input type’s constraints. The strips oscillated with similar amplitude and phase, thus limiting potential entanglement with the use hand or between them.
     6.2 Interaction Techniques
     We selected the interaction techniques that are closer to real-life ones. Techniques that use metaphors such as rays, clutching with the thumb or micro-gestures were discarded since they are different from how we interact in the real world. In this section, we list the main user-gestures from FlexiVol’s design space, along with user actions. We illustrate the interaction techniques as combinations of actions and gestures (Figure 1 - B).
@@ -1136,7 +1068,7 @@ window.onload = function () {
     \\end{figure}
 
     6.2.1 Actions.
-    We represent the main reach-through     [[[[[[[[[[[[[[[ 문제8 ]]]]]]]]]]]]]]]          users could perform in FlexiVol in Figure 13 - Actions), group by Tracing, Selecting, Scaling, Rotating, Editing, Displacing, Navigating.
+    We represent the main reach-through     [[[[[[[[[[[[[[[ 문제10 ]]]]]]]]]]]]]]]          users could perform in FlexiVol in Figure 13 - Actions), group by Tracing, Selecting, Scaling, Rotating, Editing, Displacing, Navigating.
     Other examples of actions from elastic projection screens [57] can be applied to FlexiVol, such as pushing, twisting (e.g. as a combination of selecting, editing and rotating), squeezing (e.g., as a combination of selecting, editing and scaling down), or zooming-in/out (e.g., as scaling).
     6.2.2 Gestures.
     We represent in Figure 13 the main user gestures in FlexiVol. They are a combination of gestures from the literature involving either touchscreens, multi-touch displays, and augmented/virtual reality 3D object manipulation [27, 55, 60]. In Figure 13, a common mapping from Gestures to Actions is shown. However, other mappings are possible. For instance, Selecting could be performed by Touching (as in our user study - see Section 7) or by Grasping between the fingers [12]. Displacing can be performed by Pushing (as in our suggested applications - Section 9), or by Grasping, and Pinching. We also depict a walking Gesture for Navigating: Alternate Swiping. This gesture is metaphor-like and users can move their fingers to mimic a mini-character walking inside the display. When the ring and pinky finger are flexed the action is triggered, taking the direction of the backhand and the displacement of the movement of the index and heart fingers.
@@ -1174,9 +1106,7 @@ window.onload = function () {
   });
 
   // 컴파일 버튼 클릭 이벤트 리스너
-  document
-    .getElementById("compile-btn")
-    .addEventListener("click", compileLatex);
+  document.getElementById("compile-btn").addEventListener("click", compileLatex);
 
   // 에디터 변경 이벤트 리스너
   editor.on("change", () => {
@@ -1188,9 +1118,7 @@ window.onload = function () {
   });
 
   // 미리보기 섹션에 클릭 이벤트 리스너 추가 (인용 링크 및 PDF 링크용)
-  document
-    .getElementById("preview-content")
-    .addEventListener("click", handleCitationClick);
+  document.getElementById("preview-content").addEventListener("click", handleCitationClick);
 };
 
 // LaTeX 컴파일 함수
@@ -1212,10 +1140,7 @@ function compileLatex() {
           addLog(`수식 렌더링 오류: ${err.message}`, "error");
         });
     } else {
-      addLog(
-        "컴파일 완료! (MathJax가 로드되지 않아 수식 렌더링이 불완전할 수 있습니다)",
-        "success"
-      );
+      addLog("컴파일 완료! (MathJax가 로드되지 않아 수식 렌더링이 불완전할 수 있습니다)", "success");
     }
   } catch (error) {
     addLog(`컴파일 오류: ${error.message}`, "error");
