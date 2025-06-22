@@ -45,7 +45,8 @@ const references = [
   {
     id: "adhanom2023",
     author: "Isayas Berhe Adhanom, Paul MacNeilage, and Eelke Folmer",
-    title: "Eye tracking in virtual reality: a broad review of applications and challenges",
+    title:
+      "Eye tracking in virtual reality: a broad review of applications and challenges",
     year: "2023",
     journal: "Virtual Reality",
     volume: "27",
@@ -54,8 +55,10 @@ const references = [
   },
   {
     id: "asahina2021",
-    author: "Ray Asahina, Takashi Nomoto, Takatoshi Yoshida, and Yoshihiro Watanabe",
-    title: "Realistic 3D swept-volume display with hidden-surface removal using physical materials",
+    author:
+      "Ray Asahina, Takashi Nomoto, Takatoshi Yoshida, and Yoshihiro Watanabe",
+    title:
+      "Realistic 3D swept-volume display with hidden-surface removal using physical materials",
     year: "2021",
     journal: "IEEE Virtual Reality and 3D User Interfaces (VR)",
     pages: "113–121",
@@ -91,10 +94,13 @@ const references = [
   },
   {
     id: "carter2013",
-    author: "Tom Carter, Sue Ann Seah, Benjamin Long, Bruce Drinkwater, and Sriram Subramanian",
-    title: "UltraHaptics: multi-point mid-air haptic feedback for touch surfaces",
+    author:
+      "Tom Carter, Sue Ann Seah, Benjamin Long, Bruce Drinkwater, and Sriram Subramanian",
+    title:
+      "UltraHaptics: multi-point mid-air haptic feedback for touch surfaces",
     year: "2013",
-    booktitle: "Proceedings of the 26th annual ACM symposium on User interface software and technology",
+    booktitle:
+      "Proceedings of the 26th annual ACM symposium on User interface software and technology",
     pages: "505–514",
   },
   {
@@ -111,7 +117,8 @@ const references = [
     author: "Dhairya Dand and Robert Hemsley",
     title: "Obake: interactions on a 2.5 D elastic display",
     year: "2013",
-    booktitle: "Adjunct Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology",
+    booktitle:
+      "Adjunct Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology",
     pages: "109–110",
   },
   {
@@ -119,13 +126,15 @@ const references = [
     author: "Nguyen-Thong Dang",
     title: "A survey and classification of 3D pointing techniques",
     year: "2007",
-    booktitle: "IEEE international conference on research, innovation and vision for the future",
+    booktitle:
+      "IEEE international conference on research, innovation and vision for the future",
     pages: "71–80",
   },
   {
     id: "eitoku2006",
     author: "S. Eitoku, T. Tanikawa, and Y. Suzuki",
-    title: "Display Composed of Water Drops for Filling Space with Materialized Virtual Three-dimensional Objects",
+    title:
+      "Display Composed of Water Drops for Filling Space with Materialized Virtual Three-dimensional Objects",
     year: "2006",
     booktitle: "IEEE Virtual Reality Conference (VR 2006)",
     pages: "159–166",
@@ -133,7 +142,8 @@ const references = [
   },
   {
     id: "feix2016",
-    author: "Thomas Feix, Javier Romero, Heinz-Bodo Schmiedmayer, Aaron M. Dollar, and Danica Kragic",
+    author:
+      "Thomas Feix, Javier Romero, Heinz-Bodo Schmiedmayer, Aaron M. Dollar, and Danica Kragic",
     title: "The GRASP Taxonomy of Human Grasp Types",
     year: "2016",
     journal: "IEEE Transactions on Human-Machine Systems",
@@ -144,26 +154,32 @@ const references = [
   },
   {
     id: "fernandez2024",
-    author: "Unai Javier Fernández, Iosune Sarasate, Iñigo Ezcurdia, Manuel Lopez-Amo, Ivan Fernández, and Asier Marzo",
+    author:
+      "Unai Javier Fernández, Iosune Sarasate, Iñigo Ezcurdia, Manuel Lopez-Amo, Ivan Fernández, and Asier Marzo",
     title: "PointerVol: A Laser Pointer for Swept Volumetric Displays",
     year: "2024",
-    booktitle: "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST ’24)",
+    booktitle:
+      "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST ’24)",
     pages: "1–8",
     doi: "10.1145/3654777.3676432",
   },
   {
     id: "forlines2007",
-    author: "Clifton Forlines, Daniel Wigdor, Chia Shen, and Ravin Balakrishnan",
+    author:
+      "Clifton Forlines, Daniel Wigdor, Chia Shen, and Ravin Balakrishnan",
     title: "Direct-touch vs. mouse input for tabletop displays",
     year: "2007",
-    booktitle: "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’07)",
+    booktitle:
+      "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’07)",
     pages: "647–656",
     doi: "10.1145/1240624.1240726",
   },
   {
     id: "fushimi2019",
-    author: "Tatsuki Fushimi, Asier Marzo, Bruce W Drinkwater, and Thomas L Hill",
-    title: "Acoustophoretic volumetric displays using a fast-moving levitated particle",
+    author:
+      "Tatsuki Fushimi, Asier Marzo, Bruce W Drinkwater, and Thomas L Hill",
+    title:
+      "Acoustophoretic volumetric displays using a fast-moving levitated particle",
     year: "2019",
     journal: "Applied Physics Letters",
     volume: "115",
@@ -180,9 +196,11 @@ const references = [
   {
     id: "grossman2006",
     author: "Tovi Grossman and Ravin Balakrishnan",
-    title: "The design and evaluation of selection techniques for 3D volumetric displays",
+    title:
+      "The design and evaluation of selection techniques for 3D volumetric displays",
     year: "2006",
-    booktitle: "Proceedings of the 19th annual ACM symposium on User interface software and technology",
+    booktitle:
+      "Proceedings of the 19th annual ACM symposium on User interface software and technology",
     pages: "3–12",
   },
   {
@@ -190,12 +208,14 @@ const references = [
     author: "Tovi Grossman, Daniel Wigdor, and Ravin Balakrishnan",
     title: "Multi-finger gestural interaction with 3d volumetric displays",
     year: "2004",
-    booktitle: "Proceedings of the 17th annual ACM symposium on User interface software and technology",
+    booktitle:
+      "Proceedings of the 17th annual ACM symposium on User interface software and technology",
     pages: "61–70",
   },
   {
     id: "hahn2023",
-    author: "Joonku Hahn, Woonchan Moon, Hosung Jeon, Minwoo Jung, Seongju Lee, Gunhee Lee, and Muhan Choi",
+    author:
+      "Joonku Hahn, Woonchan Moon, Hosung Jeon, Minwoo Jung, Seongju Lee, Gunhee Lee, and Muhan Choi",
     title: "Volumetric 3D Display: Features and Classification",
     year: "2023",
     journal: "Current Optics and Photonics",
@@ -206,7 +226,8 @@ const references = [
   {
     id: "hart1988",
     author: "Sandra G. Hart and Lowell E. Staveland",
-    title: "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research",
+    title:
+      "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research",
     year: "1988",
     booktitle: "Advances in Psychology",
     volume: "52",
@@ -215,16 +236,21 @@ const references = [
   },
   {
     id: "hilliges2012",
-    author: "Otmar Hilliges, David Kim, Shahram Izadi, Malte Weiss, and Andrew Wilson",
-    title: "HoloDesk: direct 3d interactions with a situated see-through display",
+    author:
+      "Otmar Hilliges, David Kim, Shahram Izadi, Malte Weiss, and Andrew Wilson",
+    title:
+      "HoloDesk: direct 3d interactions with a situated see-through display",
     year: "2012",
-    booktitle: "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    booktitle:
+      "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
     pages: "2421–2430",
   },
   {
     id: "hirayama2019",
-    author: "Ryuji Hirayama, Diego Martinez Plasencia, Nobuyuki Masuda, and Sriram Subramanian",
-    title: "A volumetric display for visual, tactile and audio presentation using acoustic trapping",
+    author:
+      "Ryuji Hirayama, Diego Martinez Plasencia, Nobuyuki Masuda, and Sriram Subramanian",
+    title:
+      "A volumetric display for visual, tactile and audio presentation using acoustic trapping",
     year: "2019",
     journal: "Nature",
     volume: "575",
@@ -248,8 +274,10 @@ const references = [
   },
   {
     id: "ishii2012",
-    author: "Hiroshi Ishii, Dávid Lakatos, Leonardo Bonanni, and Jean-Baptiste Labrune",
-    title: "Radical atoms: beyond tangible bits, toward transformable materials",
+    author:
+      "Hiroshi Ishii, Dávid Lakatos, Leonardo Bonanni, and Jean-Baptiste Labrune",
+    title:
+      "Radical atoms: beyond tangible bits, toward transformable materials",
     year: "2012",
     journal: "interactions",
     volume: "19",
@@ -265,15 +293,18 @@ const references = [
   },
   {
     id: "jiang2021",
-    author: "Ying Jiang, Congyi Zhang, Hongbo Fu, Alberto Cannavò, Fabrizio Lamberti, Henry Y K Lau, and Wenping Wang",
+    author:
+      "Ying Jiang, Congyi Zhang, Hongbo Fu, Alberto Cannavò, Fabrizio Lamberti, Henry Y K Lau, and Wenping Wang",
     title: "HandPainter -3D Sketching in VR with Hand-based Physical Proxy",
     year: "2021",
-    booktitle: "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)",
+    booktitle:
+      "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21)",
     doi: "10.1145/3411764.3445302",
   },
   {
     id: "jones2007",
-    author: "Andrew Jones, Ian McDowall, Hideshi Yamada, Mark Bolas, and Paul Debevec",
+    author:
+      "Andrew Jones, Ian McDowall, Hideshi Yamada, Mark Bolas, and Paul Debevec",
     title: "Rendering for an interactive 360° light field display",
     year: "2007",
     journal: "ACM Transactions on Graphics",
@@ -286,14 +317,17 @@ const references = [
     id: "karnik2011",
     author:
       "Abhijit Karnik, Archie Henderson, Andrew Dean, Howard Pang, Thomas Campbell, Satoshi Sakurai, Guido Herrmann, Shahram Izadi, Yoshifumi Kitamura, and Sriram Subramanian",
-    title: "Vortex: Design and implementation of an interactive volumetric display",
+    title:
+      "Vortex: Design and implementation of an interactive volumetric display",
     year: "2011",
-    booktitle: "CHI’11 Extended Abstracts on Human Factors in Computing Systems",
+    booktitle:
+      "CHI’11 Extended Abstracts on Human Factors in Computing Systems",
     pages: "2017–2022",
   },
   {
     id: "kimura2011",
-    author: "Hidei Kimura, Akira Asano, Issei Fujishiro, Ayaka Nakatani, and Hayato Watanabe",
+    author:
+      "Hidei Kimura, Akira Asano, Issei Fujishiro, Ayaka Nakatani, and Hayato Watanabe",
     title: "True 3D display",
     year: "2011",
     booktitle: "ACM SIGGRAPH 2011 Emerging Technologies",
@@ -310,7 +344,8 @@ const references = [
   {
     id: "kumagai2021",
     author: "Kota Kumagai, Shun Miura, and Yoshio Hayasaki",
-    title: "Colour volumetric display based on holographic-laser-excited graphics using drawing space separation",
+    title:
+      "Colour volumetric display based on holographic-laser-excited graphics using drawing space separation",
     year: "2021",
     journal: "Scientific Reports",
     volume: "11",
@@ -535,7 +570,10 @@ function parseLatex(latexCode) {
       }
     }
     // 수식 블록 (display math)
-    else if ((line.startsWith("\\[") && line.endsWith("\\]")) || (line.startsWith("$$") && line.endsWith("$$"))) {
+    else if (
+      (line.startsWith("\\[") && line.endsWith("\\]")) ||
+      (line.startsWith("$$") && line.endsWith("$$"))
+    ) {
       // \[ ... \] 또는 $$ ... $$ 한 줄
       const mathContent = line
         .replace(/^\\\[|\\\]$/g, "")
@@ -544,14 +582,20 @@ function parseLatex(latexCode) {
       content += `<div class="math-block">\\[${mathContent}\\]</div>`;
     }
     // 여러 줄 수식 블록 시작
-    else if ((line.startsWith("\\[") && !line.endsWith("\\]")) || (line.startsWith("$$") && !line.endsWith("$$"))) {
+    else if (
+      (line.startsWith("\\[") && !line.endsWith("\\]")) ||
+      (line.startsWith("$$") && !line.endsWith("$$"))
+    ) {
       // 여러 줄 블록 수식
       let mathLines = [];
       let endFound = false;
       let j = i;
       while (j < lines.length && !endFound) {
         let l = lines[j].trim();
-        if ((l.endsWith("\\]") && l.length > 2) || (l.endsWith("$$") && l.length > 2)) {
+        if (
+          (l.endsWith("\\]") && l.length > 2) ||
+          (l.endsWith("$$") && l.length > 2)
+        ) {
           endFound = true;
           l = l.replace(/^\\\[|^\$\$|\\\]$|\$\$$/g, "");
           mathLines.push(l);
@@ -599,16 +643,28 @@ function parseLatex(latexCode) {
     else if (inDocument && line.length > 0 && !line.startsWith("%")) {
       if (inAbstract) {
         abstract += line + " ";
-      } else if (!inFigure && !inTable && !inEnumerate && !inItemize && !inTabular) {
+      } else if (
+        !inFigure &&
+        !inTable &&
+        !inEnumerate &&
+        !inItemize &&
+        !inTabular
+      ) {
         let processedLine = line;
 
         // \href 처리
         const hrefRegex = /\\href\{([^}]*)\}\{([^}]*)\}/g;
-        processedLine = processedLine.replace(hrefRegex, '<a href="$1" target="_blank">$2</a>');
+        processedLine = processedLine.replace(
+          hrefRegex,
+          '<a href="$1" target="_blank">$2</a>'
+        );
 
         // \url 처리
         const urlRegex = /\\url\{([^}]*)\}/g;
-        processedLine = processedLine.replace(urlRegex, '<a href="$1" target="_blank">$1</a>');
+        processedLine = processedLine.replace(
+          urlRegex,
+          '<a href="$1" target="_blank">$1</a>'
+        );
 
         // \ref 처리
         const refRegex = /\\ref\{([^}]*)\}/g;
@@ -694,17 +750,29 @@ function parseLatex(latexCode) {
 
   // 초록 내용이 있으면 추가
   if (abstract) {
-    if (content.includes('<div class="abstract"><div class="abstract-title">Abstract</div></div>')) {
+    if (
+      content.includes(
+        '<div class="abstract"><div class="abstract-title">Abstract</div></div>'
+      )
+    ) {
       content = content.replace(
         '<div class="abstract"><div class="abstract-title">Abstract</div></div>',
         `<div class="abstract"><div class="abstract-title">Abstract</div>${abstract}</div>`
       );
     } else if (!content.includes(abstract)) {
       // If abstract content not found in the HTML but exists
-      const titleIndex = content.indexOf('<div class="abstract"><div class="abstract-title">Abstract</div>');
+      const titleIndex = content.indexOf(
+        '<div class="abstract"><div class="abstract-title">Abstract</div>'
+      );
       if (titleIndex > -1) {
-        const insertIndex = titleIndex + '<div class="abstract"><div class="abstract-title">Abstract</div>'.length;
-        content = content.substring(0, insertIndex) + abstract + content.substring(insertIndex);
+        const insertIndex =
+          titleIndex +
+          '<div class="abstract"><div class="abstract-title">Abstract</div>'
+            .length;
+        content =
+          content.substring(0, insertIndex) +
+          abstract +
+          content.substring(insertIndex);
       }
     }
   }
@@ -946,7 +1014,7 @@ For FlexiVol, we         [[[[[[[[[[[[[[[ 문제3 ]]]]]]]]]]]]]]]          the ri
     \\begin{figure}
     \\centering
     \\includegraphics[width=0.25\\linewidth]{figure6.png}
-    \\caption{\\label{Figure 6} A. Setup for measuring         [[[[[[[[[[[[[[[ 문제4 ]]]]]]]]]]]]]]]         transverse stiffness: A 3D printer positions a load cell to deform the sample. B. Transversal stiffness of the samples.}
+    \\caption{\\label{Figure 6} A. Setup for measuring         [[[[[[[[[[[[[[[ 문제4 ]]]]]]]]]]]]]]]         stiffness: A 3D printer positions a load cell to deform the sample. B. Transversal stiffness of the samples.}
     \\end{figure}
 
     Frequency Response
@@ -1106,7 +1174,9 @@ For FlexiVol, we         [[[[[[[[[[[[[[[ 문제3 ]]]]]]]]]]]]]]]          the ri
   });
 
   // 컴파일 버튼 클릭 이벤트 리스너
-  document.getElementById("compile-btn").addEventListener("click", compileLatex);
+  document
+    .getElementById("compile-btn")
+    .addEventListener("click", compileLatex);
 
   // 에디터 변경 이벤트 리스너
   editor.on("change", () => {
@@ -1118,7 +1188,9 @@ For FlexiVol, we         [[[[[[[[[[[[[[[ 문제3 ]]]]]]]]]]]]]]]          the ri
   });
 
   // 미리보기 섹션에 클릭 이벤트 리스너 추가 (인용 링크 및 PDF 링크용)
-  document.getElementById("preview-content").addEventListener("click", handleCitationClick);
+  document
+    .getElementById("preview-content")
+    .addEventListener("click", handleCitationClick);
 };
 
 // LaTeX 컴파일 함수
@@ -1140,7 +1212,10 @@ function compileLatex() {
           addLog(`수식 렌더링 오류: ${err.message}`, "error");
         });
     } else {
-      addLog("컴파일 완료! (MathJax가 로드되지 않아 수식 렌더링이 불완전할 수 있습니다)", "success");
+      addLog(
+        "컴파일 완료! (MathJax가 로드되지 않아 수식 렌더링이 불완전할 수 있습니다)",
+        "success"
+      );
     }
   } catch (error) {
     addLog(`컴파일 오류: ${error.message}`, "error");
